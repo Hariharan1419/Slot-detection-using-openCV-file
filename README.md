@@ -1,0 +1,1 @@
+# Slot-detection-using-openCV-file
